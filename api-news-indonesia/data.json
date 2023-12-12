@@ -1,0 +1,712 @@
+{
+    "success": true,
+    "message": null,
+    "data": {
+        "link": "https://www.cnbcindonesia.com/market",
+        "description": "CNBC Indonesia menyajikan berita terkini seputar market, pasar modal, saham, reksa dana, valas, komoditas, dan rekomendasi saham.",
+        "title": "Market - Berita Terkini Market, Saham, Reksadana - CNBC Indonesia",
+        "image": "https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png",
+        "posts": [
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212133055-17-496477/india-salip-hong-kong-jadi-pasar-saham-terbesar-ke-7-di-dunia",
+                "title": "India Salip Hong Kong Jadi Pasar Saham Terbesar Ke-7 di Dunia",
+                "pubDate": "2023-12-12T07:03:28.000Z",
+                "description": "Kapitalisasi pasar saham India telah menyalip Hong Kong dengan nilai US$ 3,99 triliun (Rp 61.845 triliun) pada akhir November 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/03/27/055866bf-f6eb-4757-99e2-42ab49c98e18_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212132913-17-496475/patrick-walujo-pimpin-pengawas-penyatuan-tiktok-tokopedia",
+                "title": "Patrick Walujo Pimpin Pengawas Penyatuan Tiktok dan Tokopedia",
+                "pubDate": "2023-12-12T06:35:37.000Z",
+                "description": "Patrick Walujo akan mengepalai komite transisi dan integrasi Tiktok dengan Tokopedia. Ini tujuannya.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/08/15/emiten-teknologi-pt-goto-gojek-tokopedia-tbk-goto-merilis-laporan-keuangan-per-juni-2023-atau-semester-i-2023-hasilnya-persero_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212130745-17-496471/donasi-rp124-t-mimpi-idola-bill-gates-mati-miskin-terkabul",
+                "title": "Donasi Rp124 T, Mimpi Idola Bill Gates Mati Miskin Terkabul",
+                "pubDate": "2023-12-12T06:35:01.000Z",
+                "description": "Salah satu pendiri toko ritel internasional Duty Free Shoppers, Charles Feeney meninggal dunia pada Senin, (9/10/2023) di San Francisco pada usia 92 tahun.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/10/01/infografis-gila-miliuner-ini-rela-beri-semua-kekayaan-buat-amal_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212125402-17-496467/emiten-ini-mau-bangun-pabrik-hidrogen-peroksida-terbesar-ri",
+                "title": "Emiten Ini Mau Bangun Pabrik Hidrogen Peroksida Terbesar RI",
+                "pubDate": "2023-12-12T06:06:21.000Z",
+                "description": "Emiten batu bara PT Sumber Global Energy Tbk. (SGER) akan membangun pabrik hydrogen peroxide melalui PT Hidrogen Peroxida Indonesia (HPI).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/02/24/batu-bara_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212120434-17-496445/singgung-jiwasraya-jokowi-beri-pesan-keras-ke-bpkh",
+                "title": "Singgung Jiwasraya, Jokowi Beri Pesan Keras Ke BPKH",
+                "pubDate": "2023-12-12T05:55:55.000Z",
+                "description": "Jokowi ingatkan Badan Pengelola Keuangan Haji (BPKH) untuk mengelola dana haji secara hati-hati dan profesional.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/12/sambutan-presiden-jokowi-pada-peringatan-hari-antikorupsi-sedunia-jakarta-12-desember-2023-tangkapan-layar-youtube-2_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212122620-17-496452/ojk-luncurkan-road-map-pujk-edukasi-dan-perlindungan-konsumen",
+                "title": "OJK Luncurkan Road Map PUJK Edukasi dan Perlindungan Konsumen",
+                "pubDate": "2023-12-12T05:45:31.000Z",
+                "description": "OJK meluncurkan Road Map atau Peta Jalan Pengawasan Perilaku Pelaku Usaha Jasa Keuangan, Edukasi, dan Pelindungan Konsumen Tahun 2023-2027 pada Selasa, (12/12).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/02/06/76d98506-26c0-4541-bbdd-6945cc89715f_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212115130-17-496444/ojk-ungkap-ada-11-bpd-kurang-modal-siap-konsolidasi",
+                "title": "OJK Ungkap Ada 11 BPD Kurang Modal, Siap Konsolidasi",
+                "pubDate": "2023-12-12T05:20:21.000Z",
+                "description": "Otoritas Jasa Keuangan (OJK) mengungkapkan saat ini tersisa 11 Bank Pembangunan Daerah (BPD) yang berproses untuk memenuhi modal inti minimum.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/01/08/968f0c0f-4133-4bfa-9745-04e65c78f25c_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212113829-17-496440/cuan-dari-saham-ini-hitung-hitungan-zakatnya",
+                "title": "Cuan dari Saham, Ini Hitung-Hitungan Zakatnya",
+                "pubDate": "2023-12-12T05:05:24.000Z",
+                "description": "Masyarakat beragama muslim memiliki kewajiban membayar zakat.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/06/09/7ec64b12-e497-41c9-bc6a-1afaf434c37e_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212103124-17-496425/pegadaian-tawarkan-kredit-rp10-juta-bagi-umkm-cek-syaratnya",
+                "title": "Pegadaian Tawarkan Kredit Rp10 Juta bagi UMKM, Cek Syaratnya",
+                "pubDate": "2023-12-12T04:20:25.000Z",
+                "description": "Pegadaian menyediakan produk Pembiayaan Ultra Mikro dengan plafon maksimal Rp 10 juta.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/04/26/petugas-melayani-nasabah-yang-bertransaksi-di-kantor-pegadaian-cabang-senen-jakarta-pusat-selasa-2642022-cnbc-indonesiaandrean-7_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212080035-19-496366/market-cap-starbucks-anjlok-rp-1878-t-imbas-boikot",
+                "title": "Market Cap Starbucks Anjlok Rp 187,8 T, Imbas Boikot?",
+                "pubDate": "2023-12-12T04:16:08.000Z",
+                "description": "Kapitalisasi pasar Starbucks AS turun hampir US$12 miliar atau sekitar Rp187,8 triliun",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/12/market-cap-starbucks-as-anjlok-rp-187-8-t-imbas-boikot_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212100404-17-496412/uang-kering-bikin-jokowi-ngamuk-lps-buka-bukaan-penyebabnya",
+                "title": "Uang Kering Bikin Jokowi Ngamuk, LPS Buka-bukaan Penyebabnya",
+                "pubDate": "2023-12-12T04:00:00.000Z",
+                "description": "LPS tengah melakukan investigasi terhadap peredaran uang di masyarakat.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/26/lembaga-penjamin-simpanan-detikcomagung-pambudhy_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212095443-17-496408/4-bank-bangkrut-di-ri-tahun-ini-semua-karena-fraud",
+                "title": "4 Bank Bangkrut di RI Tahun Ini, Semua Karena Fraud",
+                "pubDate": "2023-12-12T03:35:10.000Z",
+                "description": "Terhitung, 4 bank perekonomian rakyat (BPR) gulung tikar sepanjang tahun ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/11/03/hasil-rapat-berkala-kssk-iv-tahun-2023-7_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212090925-17-496402/ojk-dorong-pinjol-tambah-modal-lewat-ipo",
+                "title": "OJK Dorong Pinjol Tambah Modal Lewat IPO",
+                "pubDate": "2023-12-12T03:00:29.000Z",
+                "description": "OJK mendorong para pelaku industri pinjaman online (Pinjo) fintech peer to peer (p2p) lending untuk mempertebal permodalan sesuai peraturan yang berlaku.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/11/15/pinjol-paling-banyak-utangi-warga-ri_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212080557-17-496371/harga-minyak-naik-investor-cemas",
+                "title": "Harga Minyak Naik, Investor Cemas",
+                "pubDate": "2023-12-12T02:53:58.000Z",
+                "description": "Harga minyak mentah WTI dibuka menguat 0,15, begitu juga dengan harga minyak mentah brent dibuka lebih tinggi atau naik 0,12%.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/02/06/ed3f0e5b-a9fb-4462-ad0e-b260bbe9e4fb_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212093542-19-496403/pasar-pantau-bunga-the-fed-ihsg-kuat-pertahankan-7100",
+                "title": "Pasar Pantau Bunga The Fed, IHSG Kuat Pertahankan 7.100?",
+                "pubDate": "2023-12-12T02:45:45.000Z",
+                "description": "Pasar Pantau Inflasi AS dan Bunga The Fed, IHSG Kuat Pertahankan Level 7.100?",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/12/pasar-pantau-inflasi-as-bunga-the-fed-ihsg-kuat-pertahankan-level-7100-cnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212091535-17-496398/was-was-inflasi-as-rupiah-dibuka-koreksi-lagi",
+                "title": "Was-was Inflasi AS, Rupiah Dibuka Koreksi Lagi",
+                "pubDate": "2023-12-12T02:37:36.000Z",
+                "description": "Nilai tukar rupiah dibuka melemah terhadap dolar Amerika Serikat (AS).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/11/07/ilustrasi-dolar-dan-rupiah_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212090122-17-496388/jokowi-ngamuk-uang-di-ri-makin-kering-ojk-cek-aset-bank",
+                "title": "Jokowi Ngamuk Uang di RI Makin Kering, OJK Cek Aset Bank",
+                "pubDate": "2023-12-12T02:35:31.000Z",
+                "description": "Otoritas Jasa Keuangan (OJK) mengatakan bahwa rasio kredit dan rasio surat berharga terhadap total aset masing-masing 62,54% dan 17,43% per Oktober 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/02/06/7ca61369-29ca-417e-b5d9-d538bc2c60ef_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212081537-17-496386/zara-dinilai-hina-palestina-ini-profil-dan-harta-pemiliknya",
+                "title": "Zara Dinilai Hina Palestina, Ini Profil dan Harta Pemiliknya",
+                "pubDate": "2023-12-12T02:20:19.000Z",
+                "description": "Seruang memboikot Zara bergaung keras belakangan ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/11/07/a39bb81a-fa6d-436b-9bdb-095a1e57be44_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212080947-17-496372/warga-ri-makan-tabungan-dpk-lesu-ini-temuan-ojk",
+                "title": "Warga RI Makan Tabungan dan DPK Lesu, Ini Temuan OJK",
+                "pubDate": "2023-12-12T02:05:47.000Z",
+                "description": "Pertumbuhan tabungan kian lesu menjelang akhir tahun ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/06/nih-tanda-kamu-di-zona-makan-tabungan-akut-baca-baik-baik_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212083457-52-496375/ihsg-ambruk-nyaris-1-cek-rekomendasi-saham-ini",
+                "title": "IHSG Ambruk Nyaris 1%, Cek Rekomendasi Saham Ini",
+                "pubDate": "2023-12-12T01:52:06.000Z",
+                "description": "Berikut rekomendasi saham hari ini yang menarik untuk dicermati.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/19/ilustrasi-bursa-efek-indonesia-cnbc-indonesia-tri-susilo_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212083325-17-496373/mayoritas-bursa-asia-dibuka-cerah-ihsg-bakal-ikutan",
+                "title": "Mayoritas Bursa Asia Dibuka Cerah, IHSG Bakal Ikutan?",
+                "pubDate": "2023-12-12T01:47:02.000Z",
+                "description": "Mayoritas bursa Asia-Pasifik cenderung menguat pada awal perdagangan Selasa (12/12/2023).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/12/05/f0f2048b-347c-43dc-a57d-97c7af737a10_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212080156-17-496370/tugu-mau-genjot-asuransi-kredit-setelah-aturan-baru-terbit",
+                "title": "TUGU Mau Genjot Asuransi Kredit Setelah Aturan Baru Terbit",
+                "pubDate": "2023-12-12T01:45:00.000Z",
+                "description": "Asuransi kredit masih sangat rendah yakni di bawah 5% dari keseluruhan portofolio bisnis TUGU.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/04/11/7ae610e8-6c7c-4f47-83cf-b3578134d1ef_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212073359-17-496360/harga-saham-terbang-85-bursa-pantau-ketat-saham-gzco",
+                "title": "Harga Saham Terbang 85%, Bursa Pantau Ketat Saham GZCO",
+                "pubDate": "2023-12-12T01:30:00.000Z",
+                "description": "Saham GZCO selama sebulan terakhir terbang 72,41% dan dalam seminggu terakhir meroket sebesar 85,18%.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/28/ilustrasi-bursa-efek-indonesia-cnbc-indonesiaandrean-kristianto-15_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212071012-17-496356/ihsg-ambruk-nyaris-1-asing-ramai-ramai-beli-saham-ini",
+                "title": "IHSG Ambruk Nyaris 1%, Asing Ramai-Ramai Beli Saham Ini",
+                "pubDate": "2023-12-12T00:45:12.000Z",
+                "description": "IHSG ditutup turun 0,99% ke posisi 7.088,78 pada perdagangan sesi II Senin (11/12/2023).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/07/15/ilustrasi-bursa-cnbc-indonesiaandrean-kristianto-4_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212070442-17-496353/molor-4-bulan-ojk-bilang-gini-soal-merger-mnc-nobu",
+                "title": "Molor 4 Bulan, OJK BIlang Gini Soal Merger MNC-Nobu",
+                "pubDate": "2023-12-12T00:30:42.000Z",
+                "description": "Otoritas Jasa Keuangan (OJK) kembali menyatakan bahwa proses merger kedua bank tersebut masih dalam proses.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/09/ketua-eksekutif-pengawas-perbankan-dian-ediana-rae-tangkapan-layar-youtube_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212065521-17-496351/nah-daftar-negara-dunia-yang-good-bye-sama-dolar-as",
+                "title": "Nah! Daftar Negara Dunia yang 'Good Bye' Sama Dolar AS",
+                "pubDate": "2023-12-12T00:25:22.000Z",
+                "description": "Fenomena buang dolar alias dedolarisasi mulai merebak ke penjuru dunia. Banyak negara mulai mengurangi penggunaan dolar AS,",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/05/04/2803eec8-1316-4d3f-a1a8-4d86c6fc423d_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212070055-17-496352/ihsg-kebakaran-asing-kompak-buang-saham-ini",
+                "title": "IHSG Kebakaran, Asing Kompak Buang Saham Ini",
+                "pubDate": "2023-12-12T00:15:00.000Z",
+                "description": "IHSG ditutup turun 0,99% ke posisi 7.088,78 pada perdagangan sesi II Senin (11/12/2023).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/10/06/karyawan-melintas-di-dekat-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-gedung-bursa-efek-indonesia-jakarta-rabu-61020-4_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212064356-17-496348/belajar-dari-munger-banyak-masalah-bukan-alasan-miskin",
+                "title": "Belajar dari Munger, Banyak Masalah Bukan Alasan Miskin",
+                "pubDate": "2023-12-12T00:05:16.000Z",
+                "description": "Charlie Munger meninggal dunia pada usia 99 tahun dengan harta US$ 2,2 miliar atau setara Rp 34,3 triliun menurut Forbes.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/02/22/fb465279-af9f-45c3-ac1c-76d60c903fd0_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231212063231-17-496347/negara-negara-asia-ini-ikut-langkah-ri-buang-dolar-as",
+                "title": "Negara-negara Asia Ini Ikut Langkah RI 'Buang' Dolar AS",
+                "pubDate": "2023-12-11T23:55:31.000Z",
+                "description": "Berikut ini daftar negara Asia yang mulai meninggalkan dolar AS bersama Indonesia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/12/27/ri-kekeringan-dolar-as_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211234810-17-496336/menanti-inflasi-as-gimana-nasib-rupiah-hari-ini",
+                "title": "Menanti Inflasi AS, Gimana Nasib Rupiah Hari Ini?",
+                "pubDate": "2023-12-11T23:45:01.000Z",
+                "description": "Sepanjang perdagangan kemarin, Senin (11/12/2023) nilai tukar rupiah ambles cukup dalam hingga 0,68% ke posisi Rp15.610/US$.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/07/04/ilustrasi-dolar-amerika-serikat-as-25_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211214416-17-496332/pasar-wait-and-see-inflasi-as-wall-street-dibuka-variatif",
+                "title": "Pasar Wait and See Inflasi AS, Wall Street Dibuka Variatif",
+                "pubDate": "2023-12-11T14:55:00.000Z",
+                "description": "Bursa wall street dibuka bervariatif ditengah sikap wait and see pelaku pasar menanti rilis data inflasi Amerika Serikat (AS) untuk periode November 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/05/13/bendera-amerika-tergantung-di-luar-bursa-efek-new-york-di-new-york_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211202113-19-496317/video-jelang-debat-capres-saham-taipan-ini-bisa-cuan",
+                "title": "Video: Jelang Debat Capres, Saham Taipan Ini Bisa Cuan",
+                "pubDate": "2023-12-11T14:31:13.000Z",
+                "description": "Jelang Debat Capres, Saham Taipan Ini Diprediksi Cuan",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/jelang-debat-capres-saham-taipan-ini-diprediksi-cuan_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211204314-17-496330/tiktok-injeksi-modal-ke-tokopedia-ini-dampaknya-ke-goto",
+                "title": "TikTok Injeksi Modal ke Tokopedia, Ini Dampaknya ke GOTO",
+                "pubDate": "2023-12-11T13:46:04.000Z",
+                "description": "Penantian pelaku pasar terhadap rencana kemitraan anak usaha Bytedance, TikTok dengan Tokopedia akhir dibayar lunas hari ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/27/tokopedia-plus_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211203827-17-496329/ini-respon-kadin-soal-perpanjangan-kontrak-freeport",
+                "title": "Ini Respon KADIN Soal Perpanjangan Kontrak Freeport",
+                "pubDate": "2023-12-11T13:41:33.000Z",
+                "description": "KADIN merespons wacana pemerintah untuk memberikan perpanjangan Izin Usaha Pertambangan Khusus (IUPK) PT Freeport Indonesia (PTFI)",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/11/09/progres-ptfi-smelter-akhir-oktober-2023-1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211202953-17-496320/intan-pariwara-group-akuisisi-jelajah-ilmu",
+                "title": "Intan Pariwara Group Akuisisi Jelajah Ilmu",
+                "pubDate": "2023-12-11T13:36:59.000Z",
+                "description": "Intan Pariwara mengakuisisi platform pendidikan skala internasional Jelajah Ilmu.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/intan-pariwara-group_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211182934-17-496280/situasi-gawat-asean-china-jepang-korea-bikin-kesepakatan",
+                "title": "Situasi Gawat! ASEAN, China, Jepang, Korea Bikin Kesepakatan",
+                "pubDate": "2023-12-11T13:30:29.000Z",
+                "description": "ASEAN+3 sepakati penguatan Chiang Mai Initiative Multilateralization (CMIM) melalui kesepakatan pembentukan Rapid Financing Facility (RFF).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/08/21/thailand-asean_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211202626-17-496319/kinerja-pgeo-bakal-kinclong-ini-alasannya",
+                "title": "Kinerja PGEO Bakal Kinclong, Ini Alasannya",
+                "pubDate": "2023-12-11T13:28:24.000Z",
+                "description": "Performa bisnis PGEO diprediksi bakal menunjukkan kinerja yang positif.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/08/21/pt-pertamina-geothermal-energy-atau-pgeo-tbk-di-kawasan-kota-tomohon-dan-kabupaten-minahasa-sulawesi-utara-4_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211201744-17-496316/jokowi-resmikan-stasiun-pompa-sentiong-ancol-garapan-wika",
+                "title": "Jokowi Resmikan Stasiun Pompa Sentiong-Ancol Garapan WIKA",
+                "pubDate": "2023-12-11T13:25:37.000Z",
+                "description": "Stasiun Pompa Air Sentiong-Ancol dibangun dalam dua tahap, yang mana paket pertama dikerjakan melalui skema KSO Wijaya Karya dan Jaya Konstruksi.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/wika_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211201243-17-496315/vale-bocorkan-3-proyek-terbesar-mereka-di-masa-depan",
+                "title": "Vale Bocorkan 3 Proyek Terbesar Mereka di Masa Depan",
+                "pubDate": "2023-12-11T13:18:19.000Z",
+                "description": "T Vale Indonesia Tbk (PTVI) membocorkan kontribusinya terhadap penanganan perubahan iklim.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/07/28/truk-tambang-bertenaga-listrik-yang-diuji-coba-pt-vale-indonesia-tbk-inco-3_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211200933-17-496314/perusahaan-ri-ini-susun-esg-plabook-kek-sanur",
+                "title": "Perusahaan RI Ini Susun ESG Plabook KEK Sanur",
+                "pubDate": "2023-12-11T13:11:45.000Z",
+                "description": "OCS Group membuatEnvironmental, Social, and Governance (ESG) Playbook bagi Kawasan Ekonomi Khusus (KEK).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/10/16/progres-pembangunan-kek-sanur_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211165247-17-496235/tugu-insurance--tugu--mau-bagi-special-dividend-tahun-depan",
+                "title": "Tugu Insurance (TUGU) Mau Bagi Special Dividend Tahun Depan",
+                "pubDate": "2023-12-11T12:00:02.000Z",
+                "description": "Emiten asuransi Asuransi Tugu Pratama Indonesia (TUGU) atau Tugu Insurance berencana untuk kembali membagikan dividen tahun depan dari laba tahun 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/07/06/tugu-insurance_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211171940-17-496242/4-raja-media-ri-kompak-tarung-politik-siapa-paling-tajir",
+                "title": "4 Raja Media RI Kompak Tarung Politik, Siapa Paling Tajir?",
+                "pubDate": "2023-12-11T11:40:02.000Z",
+                "description": "Konglomerat banyak yang terjun di dunia politik. Bahkan beberapa di antaranya merupakan pemilik media besar.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/08/25/4-raja-media-kakap-ri-tarung-politik-sosok-ini-terkaya_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211172730-17-496245/soal-likuiditas-bank-ketat-perang-dana-murah-ini-kata-ojk",
+                "title": "Soal Likuiditas Bank Ketat dan Perang Dana Murah, Ini Kata OJK",
+                "pubDate": "2023-12-11T11:00:30.000Z",
+                "description": "Industri perbankan RI sedang menghadapi era suku bunga tinggi.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/06/27/cover-artikel-cnbc-indonesia-best-bank-of-the-year_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211154843-17-496221/soal-umkm-ganjar-pamer-kredit-khusus-perempuan-bank-jateng",
+                "title": "Soal UMKM, Ganjar Pamer Kredit Khusus Perempuan Bank Jateng",
+                "pubDate": "2023-12-11T10:40:00.000Z",
+                "description": "Calon presiden Ganjar Pranowo membeberkan strategi untuk mendorong usaha mikro, kecil, dan menengah (UMKM) naik kelas.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/calon-presiden-nomor-urut-3-ganjar-pranowo-memberikan-pemaparan-dalam-acara-dialog-apindo-capres-2024-di-menara-bank-mega-jaka-15_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211164711-17-496233/mau-garap-pasar-non-captive-target-premi-2024-tugu-naik-8",
+                "title": "Mau Garap Pasar Non Captive, Target Premi 2024 TUGU Naik 8%",
+                "pubDate": "2023-12-11T10:25:02.000Z",
+                "description": "Emiten asuransi anak usaha Pertamina PT Asuransi Tugu Pratama Indonesia Tbk. (TUGU) menargetkan pertumbuhan premi dapat naik 8% year on year (yoy) tahun depan.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/09/28/tugu-insurance_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211165409-19-496236/video-awal-pekan-ihsg-rupiah-ditutup-ambruk",
+                "title": "Video: Awal Pekan, IHSG dan Rupiah Ditutup Ambruk",
+                "pubDate": "2023-12-11T10:14:54.000Z",
+                "description": "Awal Pekan, IHSG dan Rupiah Kompak Ambruk",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/awal-pekan-ihsg-rupiah-kompak-ambruk_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211162449-17-496228/korban-teriak-tagihan-rp11-t-wanaartha-cuma-bisa-bayar-2",
+                "title": "Korban Teriak! Tagihan Rp11 T, Wanaartha Cuma Bisa Bayar 2%",
+                "pubDate": "2023-12-11T10:10:01.000Z",
+                "description": "Nasabah PT Asuransi Jiwa Adisarana Wanaartha (Wanaartha Life/WAL) buka suara soal hasil neraca sementara likuidasi (NSL) Wanaartha.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/04/sidang-gugatan-perwakilan-kelompok-class-action-atas-kasus-gagal-bayar-wanaartha-life-cnbc-indonesiamentari-puspandini-1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211160356-19-496224/harga-batu-bara-naik-saat-musim-dingin-bisa-ke-usd-160-ton",
+                "title": "Harga Batu Bara Naik Saat Musim Dingin, Bisa ke USD 160/ton?",
+                "pubDate": "2023-12-11T09:47:47.000Z",
+                "description": "Harga Batu Bara Naik Saat Musim Dingin, Bisa Tembus USD 160 per Ton?",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/harga-batu-bara-naik-saat-musim-dingin-penambang-ri-diuntungkancnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211161837-17-496227/kisah-lenyapnya-ratusan-triliun-harta-taipan-terkaya-asia",
+                "title": "Kisah Lenyapnya Ratusan Triliun Harta Taipan Terkaya Asia",
+                "pubDate": "2023-12-11T09:40:01.000Z",
+                "description": "Sebagai pemilik properti hiburan Dalian Wanda Group, Wang Jianlin punya mimpi besar ingin membangun kerajaan hiburan dan pariwisata tingkat global di China.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/07/10/chairman-wanda-group-wang-jianlin-ap-photovincent-yu_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211143148-17-496188/daftar-bank-bangkrut-terbaru-di-ri-sepanjang-2023",
+                "title": "Daftar Bank Bangkrut Terbaru di RI Sepanjang 2023",
+                "pubDate": "2023-12-11T09:25:34.000Z",
+                "description": "Sepanjang tahun ini OJK mencabut izin usaha 4 bank di Indonesia. Terbaru, Otoritas menutup BPR Persada Guna akibat pelanggaran ketentuan yang berlaku.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/08/15/c9657a6f-57f7-4330-b592-639fd644df77_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211150834-17-496207/gak-cuma-cari-cuan-ini-janji-anies-buat-bumn",
+                "title": "Gak Cuma Cari Cuan, Ini Janji Anies Buat BUMN",
+                "pubDate": "2023-12-11T09:15:01.000Z",
+                "description": "Calon Presiden Nomor urut 1 Anies Baswedan mengatakan, filosofi peran adan Usaha Milik Negara (BUMN) harus diubah, tidak hanya berorientasi untuk mencari uang.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/calon-presiden-nomor-urut-1-anies-rasyid-baswedan-memberikan-pemaparan-dalam-acara-dialog-apindo-capres-2024-di-menara-bank-me-24_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211154559-19-496217/ekonomi-china-belum-pulih-hingga-ihsg-rupiah-kompak-melemah",
+                "title": "Ekonomi China Belum Pulih Hingga IHSG dan Rupiah Kompak Melemah",
+                "pubDate": "2023-12-11T09:08:55.000Z",
+                "description": "Market Focus: Ekonomi China Belum Pulih Hinga IHSG dan Rupiah Kompak Melemah",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/dhe-sda-disebut-belum-signifikan-tambah-devisa-apa-sebabnya-cnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211145038-17-496200/dolar-menguat-libas-rupiah-bi-ini-sementara",
+                "title": "Dolar Menguat Libas Rupiah, BI: Ini Sementara!",
+                "pubDate": "2023-12-11T08:45:38.000Z",
+                "description": "Pelemahan rupiah ini terjadi di tengah wait and see pelaku pasar menunggu data-data penting pekan ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/11/ilustrasi-dolar-amerika-serikat-as-di-valuta-inti-prima-vip-money-changer-menteng-jakarta-rabu-11102023-cnbc-indonesiafaisal-r-1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211152203-17-496213/breaking-ihsg-ambles-1-lebih-saham-ini-biang-keroknya",
+                "title": "Breaking! IHSG Ambles 1% Lebih, Saham Ini Biang Keroknya",
+                "pubDate": "2023-12-11T08:39:36.000Z",
+                "description": "Indeks Harga Saham Gabungan ambles 1% lebih pada perdagangan Senin (11/12/2023) usai mengalami reli signifikan pekan lalu.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/09/11/layar-digital-pergerakan-indeks-harga-saham-gabungan-ihsg-di-gedung-bursa-efek-indonesia-jakarta-senin-119223-cnbc-indonesiatr-11_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211134154-17-496177/harta-orang-terkaya-ri-cetak-rekor-tembus-rp-3900-triliun",
+                "title": "Harta Orang Terkaya RI Cetak Rekor, Tembus Rp 3.900 Triliun",
+                "pubDate": "2023-12-11T08:25:27.000Z",
+                "description": "Total harta 50 orang terkaya di Indonesia mencetak rekor pada tahun ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/01/19/fakta-10-orang-ini-justru-makin-kaya-selama-pandemi_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211150713-17-496206/dolar-tembus-rp15600-gegara-kabar-buruk-dari-as-china",
+                "title": "Dolar Tembus Rp15.600 Gegara Kabar Buruk dari AS dan China",
+                "pubDate": "2023-12-11T08:14:28.000Z",
+                "description": "Rupiah melemah terhadap dolar Amerika Serikat (AS) pasca deflasi China yang menandakan lemahnya ekonomi serta data ketenagakerjaan AS yang masih panas.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/10/11/penukaran-uang-dolar-as-dan-rupiah-di-valuta-inti-prima-vip-money-changer-menteng-jakarta-rabu-11102023-cnbc-indonesia-faisal--2_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211144610-17-496196/tiktok-jadi-pengendali-tokopedia-saham-goto-ambruk-20",
+                "title": "TikTok Jadi Pengendali Tokopedia, Saham GOTO Ambruk 20%",
+                "pubDate": "2023-12-11T07:51:00.000Z",
+                "description": "Saham GoTo Gojek Tokopedia (GOTO), ambruk pada perdagangan Senin (11/12/2023) usai TikTok mengumumkan investasinya di Tokopedia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/05/11/tokopedia-2_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211112510-17-496113/hampir-1-dekade-ini-sederet-komitmen-j-trust-bank",
+                "title": "Hampir 1 Dekade, Ini Sederet Komitmen J Trust Bank",
+                "pubDate": "2023-12-11T07:00:10.000Z",
+                "description": "J Trust Bank didorong menjadi bank yang membahagiakan masyarakat Indonesia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/layanan-j-trust-bank_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211130637-17-496153/ramai-seruan-boikot-zara-starbucks-siapa-bohirnya-di-ri",
+                "title": "Ramai Seruan Boikot ZARA dan Starbucks, Siapa Bohirnya di RI?",
+                "pubDate": "2023-12-11T06:55:29.000Z",
+                "description": "Sejumlah produk yang dinilai memberikan dukungan kepada Israel mendapat kecaman hingga seruan aksi boikot di berbagai belahan dunia, termasuk Indonesia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/11/12/zara-cnbc-indonesia-muhammad-sabki_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231206154229-17-495060/hampir-100-bank-rakyat-di-ri-lenyap-ini-penyebabnya",
+                "title": "Hampir 100 Bank Rakyat di RI Lenyap, Ini Penyebabnya",
+                "pubDate": "2023-12-11T05:39:54.000Z",
+                "description": "OJK mencatat jumlah bank perekonomian rakyat (BPR) per September 2023 susut 95 perusahaan bila dibandingkan dengan posisi 2020.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/06/27/cover-artikel-cnbc-indonesia-best-bank-of-the-year_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211115947-17-496129/saham-grup-map--mapi--ambles-gegara-viral-iklan-zara",
+                "title": "Saham Grup MAP (MAPI) Ambles, Gegara Viral Iklan ZARA?",
+                "pubDate": "2023-12-11T05:10:02.000Z",
+                "description": "Saham emiten konglomerat ritel raksasa RI, Mitra Adiperkasa (MAPI), tercatat ambles lebih dari 3% pada perdagangan Senin (11/12/2023).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/10/gambar-dalam-kampanye-terbaru-zara-telah-dihapus-setelah-para-penggemar-mengkritik-gambar-tersebut-karena-mencerminkan-adegan-_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211110532-17-496101/emiten-orang-terkaya-brpt-ptro-tpia-dipantau-bursa",
+                "title": "Emiten Orang Terkaya, BRPT, PTRO, dan TPIA Dipantau Bursa",
+                "pubDate": "2023-12-11T04:40:32.000Z",
+                "description": "Tiga emiten milik Prajogo Pangestu masuk pantauan Bursa Efek Indonesia (BEI) pada Senin, (11/12/2023) karena harga sahamnya bergerak di luar kebiasaan.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/01/21/ilustrasi-bursa-efek-indonesia-cnbc-indonesiaandrean-kristianto-6_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211105922-17-496100/sayonara-stanchart-tuntaskan-penjualan-ini-ke-bank-danamon",
+                "title": "Sayonara! Stanchart Tuntaskan Penjualan Ini ke Bank Danamon",
+                "pubDate": "2023-12-11T04:12:41.000Z",
+                "description": "Bank asal Inggris Standard Chartered Bank Indonesia (SCBI) telah menutaskan penjualan serta migrasi sejumlah portofolio ke Bank Danamon Indonesia (BDMN)",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/02/26/67c94982-98fb-4af8-910f-489861385377_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211101159-17-496088/jual-segala-macam-aset-ajb-masih-rugi-dan-kurang-modal",
+                "title": "Jual Segala Macam Aset, AJB Masih Rugi dan Kurang Modal",
+                "pubDate": "2023-12-11T03:45:12.000Z",
+                "description": "Asuransi Jiwa Bersama (AJB) Bumiputera telah menjual berbagai macam aset yang dimiliki, termasuk memangkas kepemilikan investasi sahamnya.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/01/26/1f1db43e-809b-4d29-9aac-294677912ae1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211095150-19-496082/ihsg-lesu-rupiah-ambruk-ke-15600-per-usd-di-awal-pekan",
+                "title": "IHSG Lesu dan Rupiah Ambruk ke 15.600 per USD di Awal Pekan",
+                "pubDate": "2023-12-11T03:05:25.000Z",
+                "description": "IHSG Melemah hingga Rupiah Amblas ke Rp 15.600/USD di Awal Pekan",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/11/pemilu-ihsg-melemah-hingga-rupiah-amblas-ke-rp-15600usd-di-awal-pekan-cnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211082246-17-496037/data-tenaga-kerja-as-menguat-minyak-beri-tanda-balik-arah",
+                "title": "Data Tenaga Kerja AS Menguat, Minyak Beri Tanda Balik Arah",
+                "pubDate": "2023-12-11T02:50:48.000Z",
+                "description": "Harga minyak mentah dunia kompak koreksi pada perdagangan pagi hari ini.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/04/09/f5b52d68-600b-4fcb-a3d1-8d08e29eb059_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211085513-52-496065/ihsg-betah-di-7000-cek-rekomendasi-saham-ini",
+                "title": "IHSG Betah di 7.000, Cek Rekomendasi Saham Ini",
+                "pubDate": "2023-12-11T02:17:38.000Z",
+                "description": "Berikut rekomendasi saham yang menarik untuk dicermati.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/08/16/ilustrasi-bursa-efek-indonesia-cnbc-indonesiamuhammad-sabki-10_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211085617-17-496064/breaking-news-rupiah-ambruk-07-dolar-ke-rp15600",
+                "title": "Breaking News! Rupiah Ambruk 0,7%, Dolar ke Rp15.600",
+                "pubDate": "2023-12-11T02:11:05.000Z",
+                "description": "Nilai tukar rupiah jeblok terhadap dolar Amerika Serikat (AS) pada awal perdagangan hari ini",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/07/04/ilustrasi-dolar-amerika-serikat-as-27_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211075500-17-496032/soal-penjaminan-polis-asuransi-ini-bocoran-terbaru-dari-ojk",
+                "title": "Soal Penjaminan Polis Asuransi, Ini Bocoran Terbaru dari OJK",
+                "pubDate": "2023-12-11T02:05:00.000Z",
+                "description": "OJK menyiapkan pemulihan asuransi bermasalah.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/02/06/28b78327-43b3-497d-bba6-04c8a17560e8_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211085557-17-496060/sah-tiktok-investasi-rp-2338-t-ke-tokopedia-punya-goto",
+                "title": "Sah! TikTok Investasi Rp 23,38 T ke Tokopedia Punya GOTO",
+                "pubDate": "2023-12-11T02:03:22.000Z",
+                "description": "GOTO dan TikTok mengumumkan kemitraan strategis, Senin (11/12/2023).",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/04/11/suasana-seremoni-pencatatan-perdana-saham-pt-goto-gojek-tokopedia-tbk-di-gedung-bursa-efek-indonesia-jakarta-dok-goto-1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211063739-17-496008/minim-sentimen-pendorong-kripto-bergerak-bervariasi",
+                "title": "Minim Sentimen Pendorong, Kripto Bergerak Bervariasi",
+                "pubDate": "2023-12-11T01:50:20.000Z",
+                "description": "Merujuk dari CoinMarketCap pada Senin (11/12/2023) pukul 5.51 WIB, pasar kripto relatif bergerak mix.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/10/18/bitcoin_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211082230-17-496038/gara-gara-china-bursa-asia-gak-kompak",
+                "title": "Gara-Gara China, Bursa Asia Gak Kompak",
+                "pubDate": "2023-12-11T01:47:00.000Z",
+                "description": "Bursa Asia-Pasifik kembali dibuka bervariasi pada perdagangan Senin (11/12/2023)",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/07/15/b4afc1a9-4a84-4325-91f6-abb5fffa0da4_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211075755-17-496033/ini-tujuan-bni-siapkan-dana-tunai-rp22-t-jelang-libur-natal",
+                "title": "ini Tujuan BNI Siapkan Dana Tunai Rp22 T Jelang Libur Natal",
+                "pubDate": "2023-12-11T01:35:00.000Z",
+                "description": "Natal dan Tahun Baru merupakan periode festive akhir tahun yang mendorong masyarakat melakukan transaksi belanja lebih tinggi.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/06/01/10a3fd76-4240-4428-9523-65b334969084_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211071442-17-496029/seret-bos-bosnya-ojk-sanksi-narada-aset-manajemen-rp46-m",
+                "title": "Seret Bos-Bosnya, OJK Sanksi Narada Aset Manajemen Rp4,6 M",
+                "pubDate": "2023-12-11T00:46:06.000Z",
+                "description": "Otoritas Jasa Keuangan (OJK) mengenakan sanksi denda sebesar Rp4,6 miliar kepada PT Narada Aset Manajemen.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/02/06/33a8b817-8ef3-47f3-aaeb-e283eb6daaee_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211070907-17-496025/ihsg-sempat-tembus-7200-bbri-tlkm-saham-incaran-asing",
+                "title": "IHSG Sempat Tembus 7.200, BBRI dan TLKM Saham Incaran Asing",
+                "pubDate": "2023-12-11T00:30:07.000Z",
+                "description": "Indeks harga saham gabungan (IHSG) terapresiasi 1,41% sepanjang perdagangan pekan lalu.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/28/ilustrasi-bursa-efek-indonesia-cnbc-indonesiaandrean-kristianto-19_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211062916-17-496007/sebelum-bank-broker-asal-barat-sudah-hengkang-duluan-dari-ri",
+                "title": "Sebelum Bank, Broker Asal Barat Sudah Hengkang Duluan dari RI",
+                "pubDate": "2023-12-11T00:15:25.000Z",
+                "description": "Sejumlah broker asal Amerika Serikat dan Eropa pun juga telah meninggalkan Tanah Air.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/10/06/karyawan-melintas-di-dekat-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-gedung-bursa-efek-indonesia-jakarta-rabu-61020-6_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211062522-17-496005/ihsg-lagi-kuat-kuatnya-ini-saham-yang-malah-dibuang-asing",
+                "title": "IHSG Lagi Kuat-Kuatnya, Ini Saham yang Malah Dibuang Asing",
+                "pubDate": "2023-12-11T00:05:22.000Z",
+                "description": "Sepanjang perdagangan pekan lalu, indeks harga saham gabungan (IHSG) terapresiasi 1,41%.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/28/ilustrasi-bursa-efek-indonesia-cnbc-indonesiaandrean-kristianto-3_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231211003922-17-495997/banyak-data-rilis-pekan-ini-gimana-nasib-rupiah",
+                "title": "Banyak Data Rilis Pekan Ini, Gimana Nasib Rupiah?",
+                "pubDate": "2023-12-10T23:45:24.000Z",
+                "description": "Nilai tukar rupiah terhadap dolar AS pada akhir pekan lalu, Jumat (8/12/2023) menguat 0,03% secara harian ke posisi Rp15.505/US$.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/11/07/ilustrasi-dolar-dan-rupiah_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210161001-17-495973/starbucks-rugi-rp-186-t-akibat-aksi-boikot-israel",
+                "title": "Starbucks Rugi Rp 186 T Akibat Aksi Boikot Israel",
+                "pubDate": "2023-12-10T13:40:55.000Z",
+                "description": "Starbucks mengalami penurunan nilai pasar sebesar hampir US$12 miliar (sekitar Rp 186 triliun) selama sebulan terakhir.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/11/05/israel-palestiniansusa-11_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210134810-17-495959/bos-pizza-hut-curhat-bisnis-lesu-akibat-gerakan-boikot",
+                "title": "Bos Pizza Hut Curhat Bisnis Lesu Akibat Gerakan Boikot",
+                "pubDate": "2023-12-10T10:20:10.000Z",
+                "description": "Gerakan boikot yang terus meluas membuat banyak gerai Pizza Hut di Indonesia sepi.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/04/23/1f5dfaca-805e-4e2b-83f1-aa129d93d261_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210143022-17-495961/ramalan-robert-kiyosaki-as-bakal-jadi-negara-termiskin-dunia",
+                "title": "Ramalan Robert Kiyosaki: AS Bakal Jadi Negara Termiskin Dunia",
+                "pubDate": "2023-12-10T09:40:22.000Z",
+                "description": "Robert Kiyosaki memprediksi bahwa Amerika Serikat di bawah pemerintahan Presiden Joe Biden, bakal menjadi negara miskin.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/03/30/775142a0-e4a6-4a5f-9b70-b14ef8ab713d_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210132812-17-495957/begini-taktik-bank-china-gencarkan-dedolarisasi-di-afrika",
+                "title": "Begini Taktik Bank China Gencarkan Dedolarisasi di Afrika",
+                "pubDate": "2023-12-10T08:20:45.000Z",
+                "description": "China telah berhasil menjadi pelopor tren dedolarisasi di negara-negara yang berupaya mengurangi ketergantungan mereka pada dolar.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2019/06/10/3955b5e5-d09a-4e58-b86f-73042405c587_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210130042-17-495955/rupiah-digital-terbit-2024-ini-penjelasan-bos-bi",
+                "title": "Rupiah Digital Terbit 2024, Ini Penjelasan Bos BI",
+                "pubDate": "2023-12-10T08:00:41.000Z",
+                "description": "Rupiah Digital diterbitkan secara virtual dan disimpan di platform digital. Rupiah digital tak bisa ditarik ke bentuk fisik.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/06/01/infografis-ri-bakal-punya-uang-digital-namanya-digital-rupiah-1_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231208152908-19-495709/menanti-angin-surga-2024-ekspansi-bisnis-bisa-kian-agresif",
+                "title": "Menanti \"Angin Surga\" 2024, Ekspansi Bisnis Bisa Kian Agresif",
+                "pubDate": "2023-12-10T06:01:36.000Z",
+                "description": "Menanti \"Angin Surga\" 2024, Ekspansi Bisnis Bisa Makin Agresif",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/08/menanti-angin-surga-2024-ekspansi-bisnis-bisa-makin-agresifcnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210080710-17-495924/china-gak-minat-beli-minyak-harga-anjlok-2-dalam-sepekan",
+                "title": "China Gak Minat Beli Minyak, Harga Anjlok 2% dalam Sepekan",
+                "pubDate": "2023-12-10T02:15:26.000Z",
+                "description": "Harga minyak mentah dunia bergerak turun dalam sepekan. China enggan belanja minyak.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/10/06/kilang-minyak_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210070610-17-495917/indonesia-kekeringan-uang-ini-biang-keroknya",
+                "title": "Indonesia Kekeringan Uang, Ini Biang Keroknya!",
+                "pubDate": "2023-12-10T01:00:12.000Z",
+                "description": "Likuiditas perbankan seret. Hal ini dipicu oleh lesunya kegiatan ekonomi di Tanah Air.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/01/08/5e57b8cc-2304-4306-a81c-0d3b4284c053_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231210064755-17-495916/mantan-supir-angkot-ini-punya-kekayaan-rp-901-triliun",
+                "title": "Mantan Supir Angkot Ini Punya Kekayaan Rp 901 Triliun",
+                "pubDate": "2023-12-10T00:40:58.000Z",
+                "description": "Harta kekayaan Prajogo mencapai US$ 58,2 miliar atau setara Rp 901,69 triliun.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2020/04/08/47c01668-21c5-4c05-800b-bde330971dac_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209183706-17-495892/heboh-bos-ot-group-pulang-kerja-naik-helikopter-ini-sosoknya",
+                "title": "Heboh Bos OT Group Pulang Kerja Naik Helikopter, Ini Sosoknya",
+                "pubDate": "2023-12-09T12:45:00.000Z",
+                "description": "Orang Tua Group kini dipimpin oleh Husain Djojonegoro, adik dari Hamid",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/12/13/logo-orang-tua-ot-dok-orangtua_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209180145-17-495889/bisik-bisik-pengusaha-uang-ri-kering-ternyata-parkir-di-sini",
+                "title": "Bisik-bisik Pengusaha Uang RI Kering, Ternyata Parkir di Sini",
+                "pubDate": "2023-12-09T12:00:00.000Z",
+                "description": "Jokowi mendapat bisikan dari pengusaha, saat ini terjadi kekeringan uang di Indonesia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2018/04/30/8c3f3436-2f7e-4182-8b23-01cf28f30435_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209170215-17-495884/nasihat-robert-kiyosaki-tinggalkan-deretan-investasi-ini",
+                "title": "Nasihat Robert Kiyosaki, Tinggalkan Deretan Investasi Ini!",
+                "pubDate": "2023-12-09T10:45:00.000Z",
+                "description": "Robert Kiyosaki memberikan rekomendasi mengejutkan terkait investasi.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/07/robert-kiyosaki-dok-basabaliorg_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209133318-17-495868/konglomerat-ini-dulu-jadi-buruh-nasib-berubah-gegara-telepon",
+                "title": "Konglomerat Ini Dulu Jadi Buruh, Nasib Berubah Gegara Telepon",
+                "pubDate": "2023-12-09T07:15:00.000Z",
+                "description": "Dikenal sebagai nakhoda di balik nama besar PT Bank OCBC NISP Tbk, Karmaka Surjaudaja bukan nama asing di industri perbankan Indonesia.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/07/31/karmaka-surjaudaja-youtubekarmaka-surjaudaja_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231207091210-19-495223/saat-aliran-modal-asing-masuk-ri-sektor-ini-yang-diuntungkan",
+                "title": "Saat Aliran Modal Asing Masuk RI, Sektor Ini Yang Diuntungkan",
+                "pubDate": "2023-12-09T06:00:30.000Z",
+                "description": "Saat Aliran Modal Asing Masuk RI, Sektor Ini Yang Diuntungkan!",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/07/saat-aliran-modal-asing-masuk-ri-sektor-ini-yang-diuntungkan-cnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209120601-17-495860/daftar-baru-orang-terkaya-ri-2023-cek-hartanya",
+                "title": "Daftar Baru Orang Terkaya RI 2023, Cek Hartanya",
+                "pubDate": "2023-12-09T05:20:00.000Z",
+                "description": "Forbes telah merilis daftar orang terkaya di Indonesia jelang akhir 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/11/16/foto-kolase-prajogo-low-tuck-kwong-robert-hartono-dan-bambang-hartono-cnbc-indonesia_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209110742-17-495850/erick-thohir-tunjuk-muhammad-hanugroho-jadi-bos-baru-waskita",
+                "title": "Erick Thohir Tunjuk Muhammad Hanugroho Jadi Bos Baru Waskita",
+                "pubDate": "2023-12-09T04:15:00.000Z",
+                "description": "Menteri Badan Usaha Milik Negara (BUMN) Erick Thohir menunjuk Muhammad Hanugroho sebagai Direktur Utama Waskita menggantikan Mursyid.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/08/23/ilustrasi-waskita-cnbc-indonesiafaisal-rahman-7_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231207170459-19-495458/pemerintah-perpanjang-evaluasi-aturan-dhe-sdapengusaha-siap",
+                "title": "Pemerintah Perpanjang Evaluasi Aturan DHE SDA,Pengusaha Siap?",
+                "pubDate": "2023-12-09T04:01:26.000Z",
+                "description": "Pemerintah Perpanjang Evaluasi Aturan DHE SDA, Pengusaha Siap?",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/07/pemerintah-perpanjang-evaluasi-aturan-dhe-sda-pengusaha-siap-cnbc-indonesia-tv_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231209081837-17-495828/deretan-orang-terkaya-israel-ternyata-ikut-keruk-cuan-di-ri",
+                "title": "Deretan Orang Terkaya Israel, Ternyata Ikut Keruk Cuan di RI",
+                "pubDate": "2023-12-09T01:22:10.000Z",
+                "description": "Daftar orang terkaya Israel dan sumber kekayaannya.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/10/11/yuri-milner-getty-imagestaylor-hill_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231208205822-17-495809/transformasi-berkelanjutan-bawa-bri-raih-6-penghargaan",
+                "title": "Transformasi Berkelanjutan Bawa BRI Raih 6 Penghargaan",
+                "pubDate": "2023-12-08T14:05:01.000Z",
+                "description": "Kinerja gilang gemilang yang diraih BRI merupakan buah dari transformasi berkelanjutan yang terus dilakukan oleh perseroan.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/12/08/mesin-atm-bri_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231208174752-17-495767/volume-qris-tembus-159-m-transaksi-434-juta-pengguna",
+                "title": "Volume QRIS Tembus 1,59 M Transaksi, 43,4 Juta Pengguna",
+                "pubDate": "2023-12-08T11:20:52.000Z",
+                "description": "Volume transaksi QRIS atau Quick Response Code Indonesia Standard sudah melampaui target Bank Indonesia (BI) hingga Oktober 2023.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2023/07/06/pedagang-komplain-bi-kenakan-biaya-layanan-qris_169.png?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231208171253-17-495735/window-dressing-meriah-simak-tips-emiten-yang-bawa-cuan",
+                "title": "Window Dressing Meriah! Simak Tips dan Emiten yang Bawa Cuan!",
+                "pubDate": "2023-12-08T10:35:33.000Z",
+                "description": "Memasuki bulan Desember, pasar saham Indonesia akan masuk periode Window dressing.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2021/07/28/ilustrasi-bursa-efek-indonesia-cnbc-indonesiaandrean-kristianto-3_169.jpeg?w=1200&q=90"
+            },
+            {
+                "link": "https://www.cnbcindonesia.com/market/20231208163415-17-495731/anak-usaha-bren-siap-akuisisi-sidrap-wind-omi",
+                "title": "Anak Usaha BREN Siap Akuisisi Sidrap Wind dan OMI",
+                "pubDate": "2023-12-08T10:15:23.000Z",
+                "description": "Barito Renewables Energy (BREN) akan mengakuisisi UPC Sidrap Bayu Energy dan Operation and Maintenance Indonesia melalui anka usaha Barito Wind Energy.",
+                "thumbnail": "https://awsimages.detik.net.id/visual/2022/07/15/ilustrasi-bursa-cnbc-indonesiaandrean-kristianto-4_169.jpeg?w=1200&q=90"
+            }
+        ]
+    }
+}

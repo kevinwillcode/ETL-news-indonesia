@@ -1,0 +1,486 @@
+{
+    "maintainer": "R.M Reza",
+    "github": "https://github.com/renomureza/api-berita-indonesia",
+    "endpoints": [
+        {
+            "name": "antara",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/antara/terbaru/"
+                },
+                {
+                    "name": "politik",
+                    "path": "/antara/politik/"
+                },
+                {
+                    "name": "hukum",
+                    "path": "/antara/hukum/"
+                },
+                {
+                    "name": "ekonomi",
+                    "path": "/antara/ekonomi/"
+                },
+                {
+                    "name": "bola",
+                    "path": "/antara/bola/"
+                },
+                {
+                    "name": "olahraga",
+                    "path": "/antara/olahraga/"
+                },
+                {
+                    "name": "humaniora",
+                    "path": "/antara/humaniora/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/antara/lifestyle/"
+                },
+                {
+                    "name": "hiburan",
+                    "path": "/antara/hiburan/"
+                },
+                {
+                    "name": "dunia",
+                    "path": "/antara/dunia/"
+                },
+                {
+                    "name": "tekno",
+                    "path": "/antara/tekno/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/antara/otomotif/"
+                }
+            ]
+        },
+        {
+            "name": "cnbc",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/cnbc/terbaru/"
+                },
+                {
+                    "name": "investment",
+                    "path": "/cnbc/investment/"
+                },
+                {
+                    "name": "news",
+                    "path": "/cnbc/news/"
+                },
+                {
+                    "name": "market",
+                    "path": "/cnbc/market/"
+                },
+                {
+                    "name": "entrepreneur",
+                    "path": "/cnbc/entrepreneur/"
+                },
+                {
+                    "name": "syariah",
+                    "path": "/cnbc/syariah/"
+                },
+                {
+                    "name": "tech",
+                    "path": "/cnbc/tech/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/cnbc/lifestyle/"
+                },
+                {
+                    "name": "opini",
+                    "path": "/cnbc/opini/"
+                },
+                {
+                    "name": "profil",
+                    "path": "/cnbc/profil/"
+                }
+            ]
+        },
+        {
+            "name": "cnn",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/cnn/terbaru/"
+                },
+                {
+                    "name": "nasional",
+                    "path": "/cnn/nasional/"
+                },
+                {
+                    "name": "internasional",
+                    "path": "/cnn/internasional/"
+                },
+                {
+                    "name": "ekonomi",
+                    "path": "/cnn/ekonomi/"
+                },
+                {
+                    "name": "olahraga",
+                    "path": "/cnn/olahraga/"
+                },
+                {
+                    "name": "teknologi",
+                    "path": "/cnn/teknologi/"
+                },
+                {
+                    "name": "hiburan",
+                    "path": "/cnn/hiburan/"
+                },
+                {
+                    "name": "gayaHidup",
+                    "path": "/cnn/gayaHidup/"
+                }
+            ]
+        },
+        {
+            "name": "jpnn",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/jpnn/terbaru/"
+                }
+            ]
+        },
+        {
+            "name": "kumparan",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/kumparan/terbaru/"
+                }
+            ]
+        },
+        {
+            "name": "merdeka",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/merdeka/terbaru/"
+                },
+                {
+                    "name": "jakarta",
+                    "path": "/merdeka/jakarta/"
+                },
+                {
+                    "name": "dunia",
+                    "path": "/merdeka/dunia/"
+                },
+                {
+                    "name": "gaya",
+                    "path": "/merdeka/gaya/"
+                },
+                {
+                    "name": "olahraga",
+                    "path": "/merdeka/olahraga/"
+                },
+                {
+                    "name": "teknologi",
+                    "path": "/merdeka/teknologi/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/merdeka/otomotif/"
+                },
+                {
+                    "name": "khas",
+                    "path": "/merdeka/khas/"
+                },
+                {
+                    "name": "sehat",
+                    "path": "/merdeka/sehat/"
+                },
+                {
+                    "name": "jateng",
+                    "path": "/merdeka/jateng/"
+                }
+            ]
+        },
+        {
+            "name": "okezone",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/okezone/terbaru/"
+                },
+                {
+                    "name": "celebrity",
+                    "path": "/okezone/celebrity/"
+                },
+                {
+                    "name": "sports",
+                    "path": "/okezone/sports/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/okezone/otomotif/"
+                },
+                {
+                    "name": "economy",
+                    "path": "/okezone/economy/"
+                },
+                {
+                    "name": "techno",
+                    "path": "/okezone/techno/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/okezone/lifestyle/"
+                },
+                {
+                    "name": "bola",
+                    "path": "/okezone/bola/"
+                }
+            ]
+        },
+        {
+            "name": "republika",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/republika/terbaru/"
+                },
+                {
+                    "name": "news",
+                    "path": "/republika/news/"
+                },
+                {
+                    "name": "daerah",
+                    "path": "/republika/daerah/"
+                },
+                {
+                    "name": "khazanah",
+                    "path": "/republika/khazanah/"
+                },
+                {
+                    "name": "islam",
+                    "path": "/republika/islam/"
+                },
+                {
+                    "name": "internasional",
+                    "path": "/republika/internasional/"
+                },
+                {
+                    "name": "bola",
+                    "path": "/republika/bola/"
+                },
+                {
+                    "name": "leisure",
+                    "path": "/republika/leisure/"
+                }
+            ]
+        },
+        {
+            "name": "sindonews",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/sindonews/terbaru/"
+                },
+                {
+                    "name": "nasional",
+                    "path": "/sindonews/nasional/"
+                },
+                {
+                    "name": "metro",
+                    "path": "/sindonews/metro/"
+                },
+                {
+                    "name": "ekbis",
+                    "path": "/sindonews/ekbis/"
+                },
+                {
+                    "name": "international",
+                    "path": "/sindonews/international/"
+                },
+                {
+                    "name": "daerah",
+                    "path": "/sindonews/daerah/"
+                },
+                {
+                    "name": "sports",
+                    "path": "/sindonews/sports/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/sindonews/otomotif/"
+                },
+                {
+                    "name": "tekno",
+                    "path": "/sindonews/tekno/"
+                },
+                {
+                    "name": "sains",
+                    "path": "/sindonews/sains/"
+                },
+                {
+                    "name": "edukasi",
+                    "path": "/sindonews/edukasi/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/sindonews/lifestyle/"
+                },
+                {
+                    "name": "kalam",
+                    "path": "/sindonews/kalam/"
+                }
+            ]
+        },
+        {
+            "name": "suara",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/suara/terbaru/"
+                },
+                {
+                    "name": "bisnis",
+                    "path": "/suara/bisnis/"
+                },
+                {
+                    "name": "bola",
+                    "path": "/suara/bola/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/suara/lifestyle/"
+                },
+                {
+                    "name": "entertainment",
+                    "path": "/suara/entertainment/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/suara/otomotif/"
+                },
+                {
+                    "name": "tekno",
+                    "path": "/suara/tekno/"
+                },
+                {
+                    "name": "health",
+                    "path": "/suara/health/"
+                }
+            ]
+        },
+        {
+            "name": "tempo",
+            "paths": [
+                {
+                    "name": "nasional",
+                    "path": "/tempo/nasional/"
+                },
+                {
+                    "name": "bisnis",
+                    "path": "/tempo/bisnis/"
+                },
+                {
+                    "name": "metro",
+                    "path": "/tempo/metro/"
+                },
+                {
+                    "name": "dunia",
+                    "path": "/tempo/dunia/"
+                },
+                {
+                    "name": "bola",
+                    "path": "/tempo/bola/"
+                },
+                {
+                    "name": "cantik",
+                    "path": "/tempo/cantik/"
+                },
+                {
+                    "name": "tekno",
+                    "path": "/tempo/tekno/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/tempo/otomotif/"
+                },
+                {
+                    "name": "seleb",
+                    "path": "/tempo/seleb/"
+                },
+                {
+                    "name": "gaya",
+                    "path": "/tempo/gaya/"
+                },
+                {
+                    "name": "travel",
+                    "path": "/tempo/travel/"
+                },
+                {
+                    "name": "difabel",
+                    "path": "/tempo/difabel/"
+                },
+                {
+                    "name": "creativelab",
+                    "path": "/tempo/creativelab/"
+                },
+                {
+                    "name": "inforial",
+                    "path": "/tempo/inforial/"
+                },
+                {
+                    "name": "event",
+                    "path": "/tempo/event/"
+                }
+            ]
+        },
+        {
+            "name": "tribun",
+            "paths": [
+                {
+                    "name": "terbaru",
+                    "path": "/tribun/terbaru/"
+                },
+                {
+                    "name": "bisnis",
+                    "path": "/tribun/bisnis/"
+                },
+                {
+                    "name": "superskor",
+                    "path": "/tribun/superskor/"
+                },
+                {
+                    "name": "sport",
+                    "path": "/tribun/sport/"
+                },
+                {
+                    "name": "seleb",
+                    "path": "/tribun/seleb/"
+                },
+                {
+                    "name": "lifestyle",
+                    "path": "/tribun/lifestyle/"
+                },
+                {
+                    "name": "travel",
+                    "path": "/tribun/travel/"
+                },
+                {
+                    "name": "parapuan",
+                    "path": "/tribun/parapuan/"
+                },
+                {
+                    "name": "otomotif",
+                    "path": "/tribun/otomotif/"
+                },
+                {
+                    "name": "techno",
+                    "path": "/tribun/techno/"
+                },
+                {
+                    "name": "kesehatan",
+                    "path": "/tribun/kesehatan/"
+                }
+            ]
+        }
+    ]
+}
