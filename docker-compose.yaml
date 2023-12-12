@@ -1,0 +1,10 @@
+version: '3'
+services:
+  api-news:
+    container_name: api-news-indonesia
+    image: kevinity310/api-news-indonesia
+    ports:
+      - 3000:3000
+  # scraping-news:
+  #   image: sample
+  #   ports: sample
